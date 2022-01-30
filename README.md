@@ -19,25 +19,25 @@
 <div id="counter" align="center">
    <img src="https://komarev.com/ghpvc/?username=NicolasBidel&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
+
+<!-- <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1> -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
-Je suis technicien réseau pour un OCEM Français <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭: Je suis chargé du déploiement, de l'exploitation et de la maintenance du réseau cuivre, fibre et radio pour un OCEM français.
+Je suis technicien réseau pour un opérateur nationnal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🔭: Mon travail consiste au déploiement, à l'exploitation et à la maintenance du réseau cuivre, fibre et radio pour un OCEM français "libre".
 
-- :seedling: Apprendre de nouvelles technologies.
+- :seedling: J'adore apprendre de nouvelles choses.
 
 - :zap: Sur mon temps libre, je fabrique des c lavier mécanique DIY et je déploie mon HomeLab.
 
-- :mailbox: Pour me contacter, un petit tour sur le discord : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-_0CooL_#1722
-
+- :mailbox: Pour me contacter, un petit tour sur mon profil [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-bidel/)
 
 
 
