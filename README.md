@@ -39,7 +39,27 @@ Je suis technicien réseau pour un opérateur nationnal <img src="https://media.
 
 - :mailbox: Pour me contacter, un petit tour sur mon profil [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-bidel/)
 
+---
 
+### :hammer_and_wrench: Languages and Outils :
+  -- En cours d'apprentissage : 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="50" height="50"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" title="Debian" **alt="Debian" width="50" height="50"/>
+</div>
+
+  -- Prochaine session : 
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+</div>
+
+---
+
+### :fire: On parle statistiques :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasBidel&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
